@@ -1,5 +1,5 @@
 # About Me
-I am a Term 5 Computer Engineering student and Memorial University of Newfoundland.
+I am a Term 5 Computer Engineering student at Memorial University of Newfoundland.
 - I am specializing in Hardware Design
 
 # Past Work Terms
