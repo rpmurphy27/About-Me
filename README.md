@@ -1,6 +1,10 @@
 # About Me
-I am a Term 5 Computer Engineering student at Memorial University of Newfoundland.
-- I am specializing in Hardware Design
+I am a Term 6 Computer Engineering student at Memorial University of Newfoundland.
+- Specializing in Hardware Design
+
+#Audyse Technology
+- Founder & CEO
+- Designing embedded Active-Noise-Cancelling Systems
 
 # Past Work Terms
 - Project Manager Engineer at Cahill-Ganotec during the Muskrat Falls Hydro Electric dam project
