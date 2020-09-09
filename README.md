@@ -2,7 +2,7 @@
 I am a Term 6 Computer Engineering student at Memorial University of Newfoundland.
 - Specializing in Hardware Design
 
-#Audyse Technology
+# Audyse Technology
 - Founder & CEO
 - Designing embedded Active-Noise-Cancelling Systems
 
